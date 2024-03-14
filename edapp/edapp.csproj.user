@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="L3p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les1p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les1p2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les2p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les3p2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les3p3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les3p4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les4p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les5p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les5p2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les6p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les7p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les7p2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les8p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les8p2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Les9p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page 2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Page3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
